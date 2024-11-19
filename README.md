@@ -48,20 +48,3 @@ This Python program allows users to convert temperatures between **Celsius**, **
 
 ---
 
-### Future Enhancements
-
-- Add support for batch conversions.
-- Implement a graphical user interface (GUI).
-- Provide additional temperature scales like Rankine.
-
----
-
-### License
-
-This project is open-source and available under the **MIT License**. Feel free to modify and share! 😊
-
---- 
-
-### Contribution
-
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request. 
